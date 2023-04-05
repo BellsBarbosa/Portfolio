@@ -103,7 +103,7 @@ li {
 
 .topico-principal {
   font-size: 36px;
-  color: #ff4dbc;
+  color: #e78d6e;
 }
 
 .lista-item{
@@ -117,7 +117,7 @@ li {
 .lista-titulo{
  margin-bottom: 5px; 
  font-size: 22px;
- color: #661e4b;
+ color: #7d413b;
  font-weight: 700;
 }
 
@@ -136,7 +136,7 @@ li {
 }
 
 .rodape{
-  background-color: #724796;
+  background-color: #602a2d;
   height: 300px;
   display: flex;
   align-items: center;
