@@ -99,8 +99,7 @@ li {
   display: flex;
   flex-direction: column;
   margin-top: 100px;
-  margin-bottom: 100px;
-}
+  }
 
 .topico-principal {
   font-size: 36px;
@@ -136,6 +135,17 @@ li {
   font-weight: 300;
 }
 
+.formacao {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  }
+
+.portfolio {
+  display: flex;
+  flex-direction: column;
+
+}
 .rodape{
   background-color: #022B3A;
   height: 300px;
