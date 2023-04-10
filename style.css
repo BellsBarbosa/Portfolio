@@ -28,7 +28,7 @@ li {
   padding: 8px; 
   padding-bottom: 32px; 
   padding-top: 32px;
-  height: 60px; 
+  height: 30px; 
   background-color: #022B3A; 
 }
 
@@ -58,6 +58,12 @@ li {
   background-color: #BFDBF7; 
 }
 
+.portfolio {
+  background-color: #1F7A8C;
+  display: flex;
+  flex-direction: column;
+  
+}
 .container {
   margin-right: auto; 
   margin-left: auto;
@@ -99,6 +105,7 @@ li {
   display: flex;
   flex-direction: column;
   margin-top: 100px;
+  margin-bottom: 100px;
   }
 
 .topico-principal {
@@ -141,11 +148,7 @@ li {
   flex-direction: column;
   }
 
-.portfolio {
-  display: flex;
-  flex-direction: column;
 
-}
 .rodape{
   background-color: #022B3A;
   height: 300px;
