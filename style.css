@@ -154,16 +154,18 @@ li {
   height: 300px;
   display: flex;
   align-items: center;
-}
+  }
 
-.lista-rodape li{
+.lista-rodape{
   color: #E1E5F2;
   font-weight: 700;
-  font-size: 18px;
+  font-size: 20px;
   margin-bottom: 16px;
-  display: flex;
-  align-items: center;
-}
+  display:flex;
+  align-items: flex-start;
+  flex-direction: column;
+  
+  }
 
 .estilo-icone{
  font-size: 32px;
